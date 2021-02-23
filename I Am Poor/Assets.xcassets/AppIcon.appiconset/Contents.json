@@ -1,16 +1,25 @@
 {
   "images" : [
     {
+      "filename" : "AppIcon40x40.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "20x20"
     },
     {
+      "filename" : "AppIcon60x60.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "20x20"
     },
     {
+      "filename" : "AppIcon29x29.png",
+      "idiom" : "iphone",
+      "scale" : "1x",
+      "size" : "29x29"
+    },
+    {
+      "filename" : "AppIcon29x29@2x.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "29x29"
@@ -21,6 +30,7 @@
       "size" : "29x29"
     },
     {
+      "filename" : "AppIcon40x40@2x.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "40x40"
@@ -31,6 +41,19 @@
       "size" : "40x40"
     },
     {
+      "filename" : "AppIcon57x57.png",
+      "idiom" : "iphone",
+      "scale" : "1x",
+      "size" : "57x57"
+    },
+    {
+      "filename" : "AppIcon57x57@2x.png",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "57x57"
+    },
+    {
+      "filename" : "AppIcon60x60@2x.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "60x60"
@@ -71,11 +94,13 @@
       "size" : "40x40"
     },
     {
+      "filename" : "AppIcon76x76.png",
       "idiom" : "ipad",
       "scale" : "1x",
       "size" : "76x76"
     },
     {
+      "filename" : "AppIcon76x76@2x.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "76x76"
@@ -89,6 +114,30 @@
       "idiom" : "ios-marketing",
       "scale" : "1x",
       "size" : "1024x1024"
+    },
+    {
+      "filename" : "AppIcon50x50.png",
+      "idiom" : "universal",
+      "scale" : "1x",
+      "size" : "50x50"
+    },
+    {
+      "filename" : "AppIcon50x50@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x",
+      "size" : "50x50"
+    },
+    {
+      "filename" : "AppIcon72x72.png",
+      "idiom" : "universal",
+      "scale" : "1x",
+      "size" : "72x72"
+    },
+    {
+      "filename" : "AppIcon72x72@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x",
+      "size" : "72x72"
     }
   ],
   "info" : {
